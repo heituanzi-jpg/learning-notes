@@ -1,0 +1,15 @@
+# Obsidian 临时文件
+.obsidian/
+*.trash/
+
+# 其他临时文件
+*.tmp
+*.temp
+
+# 编辑器配置文件
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
